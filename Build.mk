@@ -22,4 +22,5 @@ DOCKER_PORTS := 20023
 DOCKER_IMAGE := unhackable_bash_image
 
 PUBLISH_BUILD := $(TARGET)
+PUBLISH := logo.txt
 PUBLISH_LIBC := docker-libc.so
